@@ -1,7 +1,12 @@
 #Hi there, I'm Habeeb Ahmed!🖐
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=habeebahmed1&show_icons=true&theme=radical">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habeebahmed1&layout=compact">
+
+
+
+
+
+
 <img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img align="left" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />
 <img align="left" alt="NumPy" src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />
