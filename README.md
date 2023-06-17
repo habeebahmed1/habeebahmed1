@@ -1,6 +1,6 @@
 #Hi there, I'm Habeeb Ahmed!🖐
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=habeebahmed1&show_icons=true&theme=radical">
+
 
 
 
